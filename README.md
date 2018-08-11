@@ -24,7 +24,7 @@ We'll be creating an app that connects to [OMDB](http://www.omdbapi.com), a publ
 ## Requirements
 1. On your home page, create a form. The form will ask for the user to input a movie title.
   * This form should have a `GET` method, with an action of `/results`
-  * Example result of submitting the form: sends browser to `/results?q=star+wars`
+  * Example result of submitting the form: sends browser to `/results?q=star+wars&apikey=thewdb`
 2. Write your GET route for `/results`.
   * Use `req.query` to access querystring parameters.
   * Use the `request` module to make a request to the OMDB API with this data
