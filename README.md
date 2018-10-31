@@ -2,7 +2,7 @@
 Create an Express application that incorporates a third party API, OMDB. [express, api]
 
 
-We'll be creating an app that connects to [OMDB](http://www.omdbapi.com), a public movie API.
+We'll be creating an app that connects to the [OMDB](http://www.omdbapi.com), a public movie API.
 
 ## Installation
     $ npm install omdb
