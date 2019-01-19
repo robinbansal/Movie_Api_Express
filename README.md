@@ -49,7 +49,7 @@ of the data. Use `JSON.parse(data)` to turn that data back into an object.
 * Make sure you call `res.render` inside the callback function of the request.
 
 
-## Bonuses
+## Bonusess 
 
 * Add stars images to reflect the imdb ratings
 * Figure out what parameters are need to access the Rotten Tomato information, and display that information to the page
